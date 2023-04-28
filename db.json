@@ -1,0 +1,53 @@
+{
+    "inspections" : [
+        {
+            "inspectionDate" : "2023-04-27T11:00+01:00",
+            "type" : "damage",
+            "status" : "completed",
+            "location" : "Nijmegen",
+            "newDamage" : true,
+            "damageType" : "normal",
+            "actionRequired" : false,
+            "description" : "Minor damage"
+        },
+        {   
+            "inspectionDate" : "2023-04-01T19:10+01:00",
+            "type" : "maintenance",
+            "status": "completed",
+            "location" : "Wijchen",
+            "maintenanceType" : "painting",
+            "actionRequired" : true,
+            "costs" : "0"
+        },
+        {
+            "inspectionDate" : "2023-02-30T09:00+01:00",
+            "type" : "damage",
+            "status" : "completed",
+            "location" : "Arnhem",
+            "newDamage" : true,
+            "damageType" : "violence",
+            "actionRequired" : true,
+            "description" : "Smashed windows"
+        },
+        {
+            "inspectionDate" : "2023-02-30T13:30+01:00",
+            "type" : "modifications",
+            "status" : "completed",
+            "location" : "Nijmegen",
+            "currentSitutation" : "///LINKtoPDF",
+            "doneBy" : "renter",
+            "desription" : "painting",
+            "action" : "accept",
+            "comments" : ""
+        },
+        {   
+            "inspectionDate" : "2023-03-12T12:00+01:00",
+            "type" : "maintenanece",
+            "status": "completed",
+            "location" : "Nijmegen",
+            "maintenanceType" : "electrics",
+            "actionRequired" : true,
+            "costs" : "500"
+        }
+    ]
+}
