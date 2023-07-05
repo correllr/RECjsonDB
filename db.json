@@ -1,7 +1,6 @@
 {
-    "inspections" : [ {
+    "inspections" : {
       "completed" : [
-
         {
             "inspectionDate" : "2023-04-27T11:00+01:00",
             "type" : "damage",
@@ -52,5 +51,5 @@
             "costs" : "500"
         }
       ]
-    }]
+    }
 }
