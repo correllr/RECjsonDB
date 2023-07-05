@@ -1,5 +1,7 @@
 {
-    "inspections" : [
+    "inspections" : [ {
+      "completed" : [
+
         {
             "inspectionDate" : "2023-04-27T11:00+01:00",
             "type" : "damage",
@@ -10,7 +12,7 @@
             "actionRequired" : false,
             "description" : "Minor damage"
         },
-        {   
+        {
             "inspectionDate" : "2023-04-01T19:10+01:00",
             "type" : "maintenance",
             "status": "completed",
@@ -40,7 +42,7 @@
             "action" : "accept",
             "comments" : ""
         },
-        {   
+        {
             "inspectionDate" : "2023-03-12T12:00+01:00",
             "type" : "maintenanece",
             "status": "completed",
@@ -49,5 +51,6 @@
             "actionRequired" : true,
             "costs" : "500"
         }
-    ]
+      ]
+    }]
 }
