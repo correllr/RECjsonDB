@@ -4,7 +4,6 @@
         {
             "inspectionDate" : "2023-04-27T11:00+01:00",
             "type" : "damage",
-            "status" : "completed",
             "location" : "Nijmegen",
             "newDamage" : true,
             "damageType" : "normal",
@@ -14,7 +13,6 @@
         {
             "inspectionDate" : "2023-04-01T19:10+01:00",
             "type" : "maintenance",
-            "status": "completed",
             "location" : "Wijchen",
             "maintenanceType" : "painting",
             "actionRequired" : true,
@@ -23,7 +21,6 @@
         {
             "inspectionDate" : "2023-02-30T09:00+01:00",
             "type" : "damage",
-            "status" : "completed",
             "location" : "Arnhem",
             "newDamage" : true,
             "damageType" : "violence",
@@ -33,7 +30,6 @@
         {
             "inspectionDate" : "2023-02-30T13:30+01:00",
             "type" : "modifications",
-            "status" : "completed",
             "location" : "Nijmegen",
             "currentSitutation" : "///LINKtoPDF",
             "doneBy" : "renter",
@@ -44,7 +40,6 @@
         {
             "inspectionDate" : "2023-03-12T12:00+01:00",
             "type" : "maintenanece",
-            "status": "completed",
             "location" : "Nijmegen",
             "maintenanceType" : "electrics",
             "actionRequired" : true,
